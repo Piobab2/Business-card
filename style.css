@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+body{
+    background-color: #2C2141;
+}
+main{
+    background-color: #FFFFFF;
+}
+.card__left{
+    display: block;
+}
+.card__right{
+    display: flex;
+}
